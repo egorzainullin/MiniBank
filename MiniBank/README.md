@@ -1,0 +1,5 @@
+# MiniBank
+
+
+
+## Author - Zainullin Egor
